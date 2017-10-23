@@ -1,0 +1,22 @@
+. 		Datos institucionales. (Historia, fotos, direccion, horarios de atención, trayectoria, etc).
+
+·       Prestaciones. (Servicios que presta la empresa)
+
+·       Equipos, camiones, flota… ( propios y de terceros )
+
+·       Trabaja con nosotros. Descarga de pdf para solicitud de empleo. (puede ser un área para fleteros que les interese trabajar para clave de Fa)
+
+·       Contactos. (Formulario de contacto) Linkeado al mail que determinen.
+
+·       Localidades, areas o zonas donde se prestan los servicios.
+
+·       Principales clientes.
+
+·       Galería. (fotos de la empresa)
+
+
+home -
+about - datos institucionales
+services - prestaciones, flota, localidades que trabaja
+blog - galeria, principales clientes
+contacts - contacto, trabaja con nosotros
